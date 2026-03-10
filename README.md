@@ -59,11 +59,11 @@ specific point in time.
 When evaluating whether and how a component should evolve, MODULE assesses
 five observable signals:
 
-1. **Code Isolation** — are the boundaries clear and dependencies minimal?
-2. **Data Ownership** — does the component own its data, or share tables?
-3. **Contract Stability** — is the public interface stable enough to extract?
-4. **Team Autonomy** — can one team develop, test, and deploy independently?
-5. **Operational Impact** — what is the component's contribution to incidents and latency?
+1. **Code Isolation** - are the boundaries clear and dependencies minimal?
+2. **Data Ownership** - does the component own its data, or share tables?
+3. **Contract Stability** - is the public interface stable enough to extract?
+4. **Team Autonomy** - can one team develop, test, and deploy independently?
+5. **Operational Impact** - what is the component's contribution to incidents and latency?
 
 Each signal points toward one of five outcomes: extract to a service,
 consolidate, modularise inside the monolith, harden the module, or
