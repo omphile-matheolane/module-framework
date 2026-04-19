@@ -1,0 +1,10 @@
+Place the whitepaper files here:
+
+- MODULE_WhitePaper_v1_0.docx
+- MODULE_WhitePaper_v1_0.pdf (recommended for reading)
+
+The whitepaper is the authoritative description of the framework.
+Everything else in this repository extends or supports what the
+whitepaper establishes.
+
+This placeholder file can be deleted once the whitepaper files are in place.
