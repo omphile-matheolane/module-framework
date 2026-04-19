@@ -12,12 +12,7 @@ assume the reader has worked through the whitepaper at least once.
 
 | File | Description |
 |------|-------------|
-| `MODULE_WhitePaper_v1_0.docx` | The whitepaper in Word format |
-| `MODULE_WhitePaper_v1_0.pdf` | The whitepaper in PDF format (recommended for reading) |
-
-*Note: place the whitepaper files in this folder. They are the source
-of truth for the framework; everything else in this repository is
-derived from them.*
+| `MODULE_WhitePaper_v1_0.pdf` | The whitepaper in PDF format|
 
 ---
 
