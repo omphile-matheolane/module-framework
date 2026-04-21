@@ -122,7 +122,7 @@ MODULE grew from repeated encounters with the same architectural
 problems in environments where getting them wrong has immediate,
 measurable consequences.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19676156.svg)](https://doi.org/10.5281/zenodo.19676156)
+https://doi.org/10.5281/zenodo.19676156
 
 ---
 
