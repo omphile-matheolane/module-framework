@@ -122,6 +122,8 @@ MODULE grew from repeated encounters with the same architectural
 problems in environments where getting them wrong has immediate,
 measurable consequences.
 
+https://doi.org/10.5281/zenodo.19676156
+
 ---
 
 ## License
